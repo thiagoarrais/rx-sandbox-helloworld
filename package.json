@@ -1,0 +1,19 @@
+{
+  "name": "rx-sandbox-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "rxjs": "^5.4.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "rx-sandbox": "0.0.4"
+  }
+}
